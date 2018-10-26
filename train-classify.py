@@ -1,4 +1,4 @@
-"""Script reads from fft and mfcc files and trains using logistic regression and knn
+"""Script reads from fft and mfcc files and trains using logistic regression & knn
 """
 
 import sklearn
